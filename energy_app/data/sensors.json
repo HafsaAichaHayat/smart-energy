@@ -1,0 +1,9 @@
+{
+  "algorithm": "sha256",
+  "salt": "smart-energy-2026",
+  "sensors": {
+    "fd402046406300248e68979e3a9525415a2bddd35a5484b3ce23a6c856e53d21": "production",
+    "3da4fec5bb6a30065f81ce4aa727c5e8ddb4b67c21d8615afbd782fb66ebf83f": "consumption",
+    "caa581364f0faa1e3cf68fc1febde5e1b6705d0f1227527e613aa2520265e128": "battery"
+  }
+}
